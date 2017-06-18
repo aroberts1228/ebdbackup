@@ -1,9 +1,9 @@
 baseurl             = "https://aroberts1228.github.io/endbaddesign/" # Must end with /
 languageCode        = "en-us"
-title               = "Introduction"
+title               = "End Bad Design"
 theme               = "introduction"
 enforce_ssl         = "your-url.com"
-builddrafts         = false
+builddrafts         = true
 canonifyurls        = true
 contentdir          = "content"
 layoutdir           = "layouts"
@@ -16,17 +16,17 @@ fixed = ":title/"
 blog  = "blog/:slug/"
 
 [params]
-author        = "A Clever Author" # Full name shows on blog post pages
+author        = "End Bad Design" # Full name shows on blog post pages
 firstname     = "Anthony" # First name shows in introduction on main page
 tagline       = "Let's End Bad Design" # Appears after the introduction
 introheight   = "large" # Input either 'medium' or 'large' or 'fullheight'
 theme         = "light" # Choose 'light' or 'dark'
 avatar        = "img/profile.png" # Path to image in static folder eg. img/avatar.png
 email         = "email@email.com" # Shows in contact section, or leave blank to omit
-localtime     = true # Show your current local time in contact section
-timezone      = "America/Los_Angeles" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+localtime     = false # Show your current local time in contact section
+timezone      = "America/Chicago" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 dateform      = "Jan 2, 2006"
-dateformfull  = "Mon Jan 2 2006 15:04:05 EST"
+dateformfull  = "Mon Jan 2 2006 15:04:05 CST"
 cachebuster   = true # Add the current unix timestamp in query string for cache busting css assets
 description   = "I need to add a description"
 faviconfile   = "img/fav.ico"
