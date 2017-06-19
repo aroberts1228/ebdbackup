@@ -22,7 +22,7 @@ tagline       = "Let's End Bad Design" # Appears after the introduction
 introheight   = "large" # Input either 'medium' or 'large' or 'fullheight'
 theme         = "light" # Choose 'light' or 'dark'
 avatar        = "img/profile.png" # Path to image in static folder eg. img/avatar.png
-email         = "email@email.com" # Shows in contact section, or leave blank to omit
+email         = "endbaddesign@gmail.com" # Shows in contact section, or leave blank to omit
 localtime     = false # Show your current local time in contact section
 timezone      = "America/Chicago" # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 dateform      = "Jan 2, 2006"
@@ -32,7 +32,7 @@ description   = "I need to add a description"
 faviconfile   = "img/fav.ico"
 highlightjs   = true # Syntax highlighting
 lang          = "en"
-footertext    = "This will be my footer text" # Text to show in footer (overrides default text)
+footertext    = "©2017 End Bad Design. All rights reserved." # Text to show in footer (overrides default text)
 fadein        = true # Turn on/off the fade-in effect
 
 showblog        = true # Show Blog section on home page
@@ -40,7 +40,7 @@ showallposts    = false # Set 'true' to list all posts on home page, or set 'fal
 showlatest      = true # Show latest blog post summary
 sharebuttons    = true # On post pages, show share this social buttons
 
-showprojects    = true # Show Projects section on home page
+showprojects    = false # Show Projects section on home page
 
 # This is your projects section. Three images of the same dimensions will look the nicest. If images are omitted, text links will be shown.
 project1link    = "#"
@@ -60,13 +60,13 @@ project3title   = "Project 3"
 # Find icon names here: http://fontawesome.io/cheatsheet/
 
 [[params.social]]
-url = "https://twitter.com/"
+url = "https://twitter.com/aroberts1228"
 icon = "twitter"
 
 [[params.social]]
-url = "https://facebook.com/"
+url = "https://facebook.com/rocketpunchlabs"
 icon = "facebook"
 
 [[params.social]]
-url = "https://linkedin.com/"
-icon = "linkedin"
+url = "https://instagram.com/rocketpunchlabs"
+icon = "instagram"
