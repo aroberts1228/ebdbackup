@@ -3,7 +3,7 @@ languageCode        = "en-us"
 title               = "End Bad Design"
 theme               = "introduction"
 enforce_ssl         = "your-url.com"
-builddrafts         = true
+builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
 layoutdir           = "layouts"
@@ -28,7 +28,7 @@ timezone      = "America/Chicago" # Your timezone as in the TZ* column of this l
 dateform      = "Jan 2, 2006"
 dateformfull  = "Mon Jan 2 2006 15:04:05 CST"
 cachebuster   = true # Add the current unix timestamp in query string for cache busting css assets
-description   = "I need to add a description"
+description   = "Helping churches end bad design"
 faviconfile   = "img/fav.ico"
 highlightjs   = true # Syntax highlighting
 lang          = "en"
@@ -36,7 +36,7 @@ footertext    = "©2017 End Bad Design. All rights reserved." # Text to show in 
 fadein        = true # Turn on/off the fade-in effect
 
 showblog        = true # Show Blog section on home page
-showallposts    = false # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
+showallposts    = true # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
 showlatest      = true # Show latest blog post summary
 sharebuttons    = true # On post pages, show share this social buttons
 
