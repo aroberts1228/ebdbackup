@@ -83,7 +83,7 @@ Your print design can follow the same basic rules as your digital designs. Make 
 
 >It's always a good idea to use the K.I.S.S. method. Keep It Simple Stupid
 
-Many times your print advertisements will drive people to your social media or your website for more details or for an action such as registering for a conference or event. Therefore if people will already be visiting more information, leave some of the minor details out of your design. This will keep it from becoming cluttered.
+Many times your print advertisements will drive people to your social media or your website for more details or for an action such as registering for a conference or event. Therefore if people will already be visiting your site for more information, leave some of the minor details out of your design. This will keep it from becoming cluttered.
 
 ![example print one](img/wallprint1.jpg)
 
