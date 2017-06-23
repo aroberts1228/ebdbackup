@@ -91,6 +91,6 @@ This postcard for a Hyphen retreat is a great example. The back of this card con
 
 ![example print one](img/wallprint2.jpg)
 
-The flyer shown here contains a lot more text than the postcard shown above it. However, it is physically a much large design which allows for more information to be displayed at a comfortable reading level. Even with all the information listed on this design, only the even name is stretched edge to edge. All other text is evenly spaced across the flyer.
+The flyer shown here contains a lot more text than the postcard shown above it. However, it is physically a much large design which allows for more information to be displayed at a comfortable reading level. Even with all the information listed on this design, only the event name is stretched edge to edge. All other text is evenly spaced across the flyer.
 
 Hopefully, this post has given you a new way of looking at your design work. Remember, sometimes less is more.
