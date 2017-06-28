@@ -77,3 +77,7 @@ To make these fun we added a lot of blank space with the instructions at the top
 Hopefully our re-designed connect cards can give you some insight and ideas for you to use at your church. Feel free to use these cards as they are or modify them to fit your church or ministry. They are designed as full bleed print ready files with a finished size of 4"x6". They will work best printed on a matte/dull finish postcard or a natural uncoated cardstock.
 
 Don't forget to check back next week for a post about all the apps, tools, extensions and hardware that I currently use and have tested over the years.
+
+Fonts used in these cards can be found here [SK Modernist](https://www.behance.net/gallery/32918197/Sk-Modernist-%28Free-Font%29 "SK-Modernist Font")
+
+PSD Files can be found here [Connect Card PSD files](http://rocketpunch.s3.amazonaws.com/connect%20card%20psd.zip "Connect Card Files")
