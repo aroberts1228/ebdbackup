@@ -4,7 +4,7 @@ title = "The Connect Card"
 draft = true
 +++
 
-###The Connect Card
+### The Connect Card
 
 Let's talk about the connect card, info card, guest card, visitor information card, follow up card or whatever name you might use to get contact information from your guest.
 
