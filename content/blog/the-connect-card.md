@@ -1,5 +1,5 @@
 +++
-date = "2017-06-23T12:02:16-05:00"
+date = "2017-06-28T12:02:16-05:00"
 title = "The Connect Card"
 draft = true
 +++
@@ -49,3 +49,31 @@ The next card we designed is the **FOLLOW** card.
 Having elimanted everything but contact information from our connect card we had to come up with another card for people wanting to further their spiritual connection to the church. These cards are aimed at people who would like to have let our leaders know about a prayer request that they have, sign up for ministry training in our LIFE classes or be baptized.
 
 The contact for our follow card have also been simplified to the persons name and email since that is our primary form of contact for the church and all that is needed in these situations. There is no need to complicate it by asking for all of their information all over again.
+
+These are were our primary points of interest, but remember that just because something works great at one church doesnt always mean it will work great at yours. There is nothing wrong with sitting down and mapping your card out in advance. Do some small runs to experiment and see what gets the best results.
+
+Our next card is the **SERVE** card.
+
+![new serve Card](img/connectcardserve.jpg)
+
+The Serve card allows someone who is looking to volunteer or serve at my church easily get their information into the hands of the apropiate team leader.
+
+Like our Follow card, the only contact information fields are name and email. Below the name and email are four of our main ministry teams *First Impressions* (Greeters, Guest Services, Ushers), *Support* (Security, Event Set-up/Tear-down), *Production* (Lighting, Sound, Media, Photo/Video), *Worship* (Musician, Singer) and then our Children and Student Ministries are listed.
+
+Once this card has been filled out and turned in, the contact information will be passed on to the team leader of that ministry for them to follow up with the potential volunteer.
+
+Our last card is the **KIDS** card.
+
+This is a fun card that I came up with to get our younger guest involved. Typically only the adults will fill out a connect card in church. I wanted a way for the kids to feel like they were a part of the experience of visiting a church for the first time as well.
+
+For the kids version of a connect card there is no reason to get as much information as you do from adults. The younger kids may not even have an email address or know their phone number. With this in mind we decided to keep it simple.
+
+![new kids card](img/connectcardkids.jpg)
+
+The only information fields are their name and address (for the ones that know it), this way our Sunday School Teachers and Student Ministers can mail them a postcard or letter.
+
+To make these fun we added a lot of blank space with the instructions at the top *Draw a picture of yourself*. The idea came from eating at a restaurant as a kid where they would hang your kids menu paper that you colored up at the front counter. We can now do the same thing with our Sunday School rooms displaying the pictures that the kids have drawn.
+
+Hopefully our re-designed connect cards can give you some insight and ideas for you to use at your church. Feel free to use these cards as they are or modify them to fit your church or ministry. They are designed as full bleed print ready files with a finished size of 4"x6". They will work best printed on a matte/dull finish postcard or a natural uncoated cardstock.
+
+Don't forget to check back next week for a post about all the apps, tools, extensions and hardware that I currently use and have tested over the years.
