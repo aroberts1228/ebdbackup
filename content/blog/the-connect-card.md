@@ -1,7 +1,7 @@
 +++
 date = "2017-06-28T12:02:16-05:00"
 title = "The Connect Card"
-draft = true
+draft = false
 +++
 
 ### The Connect Card
