@@ -15,4 +15,4 @@ For this weeks post I am going to list all of the tools I am currently using alo
 #### Apps
 The tools listed here are apps that I use almost everyday for a variety of functions. Each tool contains a link for you to download or learn more information about it. I am using a MacBook Pro as my primary computer, but most of these should also be availabe on Windows or Linux OS. Some of these also have mobile versions on iOS and Android.
 
-** 1Password ** If you struggle with remembering passwords for all of your various accounts and websites, this is the app for you. Having tried various password managers, I found this one to be the easiest and most feature rich one. [1Password](https://1password.com/ "1Password")  
+**1Password** If you struggle with remembering passwords for all of your various accounts and websites, this is the app for you. Having tried various password managers, I found this one to be the easiest and most feature rich one.<a href="https://1password.com/" target="_blank">1Password</a>
