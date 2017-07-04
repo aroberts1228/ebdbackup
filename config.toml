@@ -1,4 +1,4 @@
-baseurl             = "https://aroberts1228.github.io/endbaddesign/" # Must end with /
+baseurl             = "https://endbaddesign.com/" # Must end with /
 languageCode        = "en-us"
 title               = "End Bad Design"
 theme               = "introduction"
@@ -28,7 +28,7 @@ timezone      = "America/Chicago" # Your timezone as in the TZ* column of this l
 dateform      = "Jan 2, 2006"
 dateformfull  = "Mon Jan 2 2006 15:04:05 CST"
 cachebuster   = true # Add the current unix timestamp in query string for cache busting css assets
-description   = "Helping churches end bad design"
+description   = "Helping churches end bad design one blog post at a time."
 faviconfile   = "img/favnew.ico"
 highlightjs   = true # Syntax highlighting
 lang          = "en"
