@@ -16,3 +16,7 @@ For this weeks post I am going to list all of the tools I am currently using alo
 The tools listed here are apps that I use almost everyday for a variety of functions. Each tool contains a link for you to download or learn more information about it. I am using a MacBook Pro as my primary computer, but most of these should also be availabe on Windows or Linux OS. Some of these also have mobile versions on iOS and Android.
 
 **1Password** If you struggle with remembering passwords for all of your various accounts and websites, this is the app for you. Having tried various password managers, I found this one to be the easiest and most feature rich one.<a href="https://1password.com/" target="_blank">1Password</a>
+
+**Airmail** Do you hate having to go to a website and login everytime you want to check your email? If so, you need this lighting fast email client. This app contains quite a bit of features such as being logged in with multiple accounts at once, being able to choose multiple signatures with a click, reminders and a lot more. <a href="http://airmailapp.com/" target="_blank">Airmail</a>
+
+**Transmit** After trying a lot of FTP clients, I have settled on Transmit. Using it multiple times a week to update websites is great. The interface is easy to use and not cluttered, you can save multiple favorites and even share them through the app. If you use FTP a lot, check out <a herf="https://panic.com/transmit/" target="_blank">Transmit</a>
