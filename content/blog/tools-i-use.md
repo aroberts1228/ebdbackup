@@ -47,3 +47,7 @@ The tools listed here are apps that I use almost everyday for a variety of funct
 
 #### Extensions
 My primary web browser is Google Chrome, and over the years I have tried hundreds of different extensions to make task easier and more effecient. Most of these extensions are avaliable for other browsers, but for this list, I can only guarantee that you find them on Chrome
+
+**Authy**
+
+**Pushbullet** It took me a while to fully grasp the capabilities of what all Pushbullet could be used for. First, it allows you to "instant message" other Pushbullet users directly from your browser window or the app on your phone. You can easily send links and files through it as well. The best function however, is being able to send links quickly to other devices. This can be accomplished already if you have say an apple computer, iphone and ipad. They can share browser history device to device easily. But, if you are like me and use a Windows Desktop, Macbook for your laptop, Android phone and an iPad, it can be harder. Pushbullet simplifies that greatly. Once you start using it, you will wonder how you got along without it <a href="https://www.pushbullet.com/" target="_blank">Pushbullet</a>
