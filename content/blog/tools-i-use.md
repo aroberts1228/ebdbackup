@@ -39,8 +39,11 @@ The tools listed here are apps that I use almost everyday for a variety of funct
 
 **Slack** This app is amazing. You can do all of your communications and group notifications in one central app. Share files, send direct messages along side group wide messages, make video and voice calls, get notifications from all of your other apps in once central location. Slack is your answer to group collaboration. If you are tired of juggling emails, group chats and projects from mulitple apps, give Slack a try. <a href="https://slack.com/" target="_blank">Slack</a>
 
-**Toggl** 
+**Toggl** You may think that you have no use for a time tracking app, but you should give Toggl a chance. When you begin to track how much time a project takes, it will allow you to plan better in the future to meet deadlines. Toggl makes it very easy track multiple projects and even allows other people from your team to track time on the same project as you. <a href="https://toggl.com/" target="_blank">Toggl</a>
 
 **Transmit** After trying a lot of FTP clients, I have settled on Transmit. Using it multiple times a week to update websites is great. The interface is easy to use and not cluttered, you can save multiple favorites and even share them through the app. If you use FTP a lot, check out <a href="https://panic.com/transmit/" target="_blank">Transmit</a>
 
 **Trello** One of my most used app on this list is Trello. It works as a to do list, project management system, team collaboration and so much more. After using other similar apps, I keep finding myself coming back to trello. It works great to assign task to people and manage group projects. If you have never given it a try, I would highly suggest you give it a look. <a href="https://trello.com/" target="_blank">Trello</a>
+
+#### Extensions
+My primary web browser is Google Chrome, and over the years I have tried hundreds of different extensions to make task easier and more effecient. Most of these extensions are avaliable for other browsers, but for this list, I can only guarantee that you find them on Chrome
