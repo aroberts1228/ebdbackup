@@ -14,12 +14,12 @@ For this weeks post I am going to list all of the tools I am currently using alo
 
 #### Apps
 The tools listed here are apps that I use almost everyday for a variety of functions. Each tool contains a link for you to download or learn more information about it. I am using a MacBook Pro as my primary computer, but most of these should also be availabe on Windows or Linux OS. Some of these also have mobile versions on iOS and Android.
-
-**1Password** If you struggle with remembering passwords for all of your various accounts and websites, this is the app for you. Having tried various password managers, I found this one to be the easiest and most feature rich one. <a href="https://1password.com/" target="_blank">1Password</a>
+<!--
+**1Password** If you struggle with remembering passwords for all of your various accounts and websites, this is the app for you. Having tried various password managers, I found this one to be the easiest and most feature rich one. <a href="https://1password.com/" target="_blank">1Password</a> -->
 
 **Adobe CC** The Adobe Creative Cloud is a great way to get access to all of the creative apps that you need. Have all of our apps through the cloud makes collaberation easier and it insures that you have all of the latest updates from Adobe. If the entire cloud is out of your budget, you can get the Photographers Bundle which includes Photoshop and Lightroom, for $9.99/month. This bundle also includes some cloud storage from Adobe as well. <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe CC</a>
 
-**Airmail** Do you hate having to go to a website and login everytime you want to check your email? If so, you need this lighting fast email client. This app contains quite a bit of features such as being logged in with multiple accounts at once, being able to choose multiple signatures with a click, reminders and a lot more. <a href="http://airmailapp.com/" target="_blank">Airmail</a>
+<!-- **Airmail** Do you hate having to go to a website and login everytime you want to check your email? If so, you need this lighting fast email client. This app contains quite a bit of features such as being logged in with multiple accounts at once, being able to choose multiple signatures with a click, reminders and a lot more. <a href="http://airmailapp.com/" target="_blank">Airmail</a> -->
 
 **Caffeine** This is a nifty little app that sits in your computers toolbar. Simply click it to fill up your coffee cup and now your computer will not go to sleep. It is useful if you do not want to constently adjust your computers power settings to keep it awake. <a href="http://lightheadsw.com/caffeine/" target="_blank">Caffeine</a>
 
@@ -48,6 +48,8 @@ The tools listed here are apps that I use almost everyday for a variety of funct
 #### Extensions
 My primary web browser is Google Chrome, and over the years I have tried hundreds of different extensions to make task easier and more effecient. Most of these extensions are avaliable for other browsers, but for this list, I can only guarantee that you find them on Chrome
 
-**Authy**
+<!-- **Authy** -->
+
+**OneTab** Tabs on your web browser are great, but if you are like me and end up with a bunch of them open at a time, you need OneTab. It allows you to "close" the tabs you select into one single tab as a list. This way they are not all open at one time and hogging system resources. Plus you can see them all in an organized list and open them back as needed. <a href="https://www.one-tab.com/" target="_blank">OneTab</a>
 
 **Pushbullet** It took me a while to fully grasp the capabilities of what all Pushbullet could be used for. First, it allows you to "instant message" other Pushbullet users directly from your browser window or the app on your phone. You can easily send links and files through it as well. The best function however, is being able to send links quickly to other devices. This can be accomplished already if you have say an apple computer, iphone and ipad. They can share browser history device to device easily. But, if you are like me and use a Windows Desktop, Macbook for your laptop, Android phone and an iPad, it can be harder. Pushbullet simplifies that greatly. Once you start using it, you will wonder how you got along without it <a href="https://www.pushbullet.com/" target="_blank">Pushbullet</a>
