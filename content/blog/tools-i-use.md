@@ -21,8 +21,7 @@ The tools listed here are apps that I use almost everyday for a variety of funct
 
 <!-- **Airmail** Do you hate having to go to a website and login everytime you want to check your email? If so, you need this lighting fast email client. This app contains quite a bit of features such as being logged in with multiple accounts at once, being able to choose multiple signatures with a click, reminders and a lot more. <a href="http://airmailapp.com/" target="_blank">Airmail</a> -->
 
-**Atom**
-<a href="https://atom.io/" target="_blank">Atom</a>
+**Atom** This has become my go to editor for webdesign and coding. Atom is free and has the ability to code in any language you can imagine. If you edit code for your website, take a look at Atom and all the features it has to offer. <a href="https://atom.io/" target="_blank">Atom</a>
 
 **Caffeine** This is a nifty little app that sits in your computers toolbar. Simply click it to fill up your coffee cup and now your computer will not go to sleep. It is useful if you do not want to constently adjust your computers power settings to keep it awake. <a href="http://lightheadsw.com/caffeine/" target="_blank">Caffeine</a>
 
