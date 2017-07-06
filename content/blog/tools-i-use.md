@@ -21,6 +21,9 @@ The tools listed here are apps that I use almost everyday for a variety of funct
 
 <!-- **Airmail** Do you hate having to go to a website and login everytime you want to check your email? If so, you need this lighting fast email client. This app contains quite a bit of features such as being logged in with multiple accounts at once, being able to choose multiple signatures with a click, reminders and a lot more. <a href="http://airmailapp.com/" target="_blank">Airmail</a> -->
 
+**Atom**
+<a href="https://atom.io/" target="_blank">Atom</a>
+
 **Caffeine** This is a nifty little app that sits in your computers toolbar. Simply click it to fill up your coffee cup and now your computer will not go to sleep. It is useful if you do not want to constently adjust your computers power settings to keep it awake. <a href="http://lightheadsw.com/caffeine/" target="_blank">Caffeine</a>
 
 **Dropbox** With a lot of features and easy to use interface, this is my favorite cloud storage provider by far. If the free space is not enough for you, you can get a business or team account that gives you more storage and allows you to easily share files between your team. If you have never used Dropbox, give it a chance. <a href="https://db.tt/n7Fx0Cys" target="blank">Dropbox</a>
@@ -71,3 +74,13 @@ The tools I have listed as Mac menu bar apps run similar to browser extensions. 
 **Clip Menu** When working on design projects, there is a good chance that you do a lot of copy and paste. Clip Menu keeps the things you copy and paste in a history. This allows you to copy and paste things frequently without having to go back to the original document. It is very customizable and even allows you to create folders and organize things that you copy and paste a lot. <a href="http://www.clipmenu.com/" target="_blank">Clip Menu</a>
 
 **Color Snapper** This app is the best macOS color picker app for designers & developers which makes it easy to collect, adjust, organize and export colors of any pixel on the screen. All you have to do is press the hotkey to bring up the magnifying glass. Select the color and it will automatically generate the color into several different formats such as RGB and Hex. This is one of my most used tools. <a href="https://colorsnapper.com/" target="_blank">Color Snapper</a>
+
+#### Websites
+
+Here is a small list of websites to add to your design resources.
+
+**Church Motion Graphics** This website has an endless amount of still and motion backgrounds to spice up your worship services at church. All of the backgrounds are really high quality and the prices are very affordable. My church has been using them for years and have yet to be dissapointed with the new products they release every month. <a href="https://www.churchmotiongraphics.com/" target="_blank">Church Motion Graphics</a>
+
+**The Stocks**
+
+**Unsplash**
