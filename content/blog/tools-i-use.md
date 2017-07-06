@@ -80,6 +80,8 @@ Here is a small list of websites to add to your design resources.
 
 **Church Motion Graphics** This website has an endless amount of still and motion backgrounds to spice up your worship services at church. All of the backgrounds are really high quality and the prices are very affordable. My church has been using them for years and have yet to be dissapointed with the new products they release every month. <a href="https://www.churchmotiongraphics.com/" target="_blank">Church Motion Graphics</a>
 
-**The Stocks**
+**The Stocks** A great website for searching multiple stock image resources in one place. You might already use some of the sites listed on this page, but if you are constently looking for new images, try this site out. <a href="http://thestocks.im/" target="_blank">The Stocks</a>
 
-**Unsplash**
+**Unsplash** The absolute highest quality free photos you are going to find anywhere on the web. Discover the latest free (do whatever you want) high-resolution photos that are updated every day. I use Unsplash weekly for almost every project in my church. If you are a photographer looking to give back to the open source community, think about creating an account and submitting your own photos like I did, <a href="https://unsplash.com/@aroberts1228" target="_blank">My Photos on Unplash</a> or visit the <a href="https://unsplash.com/" target="blank">Unsplash homepage</a> to browse all of the photos.
+
+Thank you for reading this post and hopefully you discovered some cool new tools to help you out in your design and productivity at church. Rememeber to check back next week for a brand new post as we work together to End Bad Design.
