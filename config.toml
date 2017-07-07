@@ -1,4 +1,4 @@
-baseurl             = "https://endbaddesign.com/" # Must end with /
+baseurl             = "https://aroberts1228.github.io/" # Must end with /
 languageCode        = "en-us"
 title               = "End Bad Design"
 theme               = "introduction"
