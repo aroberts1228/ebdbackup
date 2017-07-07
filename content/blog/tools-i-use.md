@@ -10,7 +10,7 @@ Every good craftsman needs a good set of tools to do his job properly. Over the 
 
 Working in design is no different. Over the years I have tried countless apps, programs, extensions, and hardware. Some of them I still use today, while others have been replaced or are no longer needed.
 
-For this weeks post, I am going to list all of the tools I am currently using along with a few that I have used in the past but may still be useful. They will be divided into the following categories and sorted alphabetical so that it will be easier to find them later if you need. This is no way a comprehensive list of all the tools available or even the ones that may be best suited for you, but it is simply a list of things that work best for me.
+For this week's post, I am going to list all of the tools I am currently using along with a few that I have used in the past but may still be useful. They will be divided into the following categories and sorted alphabetical so that it will be easier to find them later if you need. This is no way a comprehensive list of all the tools available or even the ones that may be best suited for you, but it is simply a list of things that work best for me.
 
 #### Apps
 The tools listed here are apps that I use almost every day for a variety of functions. Each tool contains a link for you to download or learn more information about it. I am using a MacBook Pro as my primary computer, but most of these should also be available on Windows or Linux OS. Some of these also have mobile versions available on iOS and Android.
@@ -29,7 +29,7 @@ The tools listed here are apps that I use almost every day for a variety of func
 
 **Google Drive** While I prefer Dropbox for business file sharing, Google Drive is my go to cloud storage for personal backups and collaborations involving documents. Google Docs allows your team to edit documents and spreadsheets in real time. Google photos, which is a part of Google Drive, is excellent for backing up all of your photos from your phone and computer. With 15GB to start with for free, it is worth checking out. <a href="https://drive.google.com/" target="_blank">Google Drive</a>
 
-**Illustrator** This is my go to program when it comes to vector graphics. Most of my Illustrator projects are logos and icons, but I also use it in print design and other graphic design projects. Illustrator pairs really well with Photoshop to cover all of your design needs. <a href="http://www.adobe.com/products/illustrator.html" target="_blank">Illustrator</a>
+**Illustrator** This is my program of choice when it comes to vector graphics. Most of my Illustrator projects are logos and icons, but I also use it in print design and other graphic design projects. Illustrator pairs really well with Photoshop to cover all of your design needs. <a href="http://www.adobe.com/products/illustrator.html" target="_blank">Illustrator</a>
 
 **Inkscape** If you need a free vector graphic editor, Inkscape is for you. I have personally moved on to Adobe Illustrator in my work, but much like GIMP, I used Inkscape for a while because it is free and open source. Much like GIMP vs Photoshop, Inkscape can do most everything Illustrator can do, but it can be a bit clunky to use if you are familiar with Adobe software. If cost is the biggest factor for you, give Inkscape a try. <a href="https://inkscape.org/en/" target="_blank">Inkscape</a>
 
