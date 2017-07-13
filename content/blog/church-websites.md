@@ -1,7 +1,51 @@
 +++
 date = "2017-07-10T23:30:57-05:00"
-title = "church websites"
+title = "Church Websites"
 draft = true
 +++
 
 ### Your Church Website
+
+In our digital, fast-paced world today, it is so important for your church to not only have a website, but to have a good website. This is the first glimpse that many people will have of your church. Are you making a good impression before a guest reaches your front door?
+
+Unfortunaly, many churches do not have a well designed website or even a website at all. Many people think that you need to spend a small fortune to have a good website. Some churches just don't have a clue where to even start.
+
+>Nearly half (46%) of people say a website’s design is their number one criterion for determining the credibility of an organization [(Source)](https://blog.hubspot.com/blog/tabid/6307/bid/33423/19-Reasons-You-Should-Include-Visual-Content-in-Your-Marketing-Data.aspx "Source")
+
+While that may seem like an unfair judgement to base your perception of a church on their website alone, it is the world we live in. How many times have you decided on a place to eat or a product to buy because it had good reviews and plenty of information avaliable online?
+
+Your church is no different. People are searching for churches in your area everyday and how can they find yours if there is no information or the information is hard to find.
+
+Now you are probably asking the question, "What makes a website good?".
+
+>94% of people cited poor web design as the reason they mistrusted or rejected a website.
+
+Design, much like art, is very subjective on what "looks good". Some people like abstract painting while others prefer realistic oil paintings. Websites are the same way. Some people like blue, others prefer green. While there are a few things you should really do in relation to your site design, let's focus on the the functional side of your church website first.
+
+You do not have to hire a world class web designer for your church to have a well functioning website. The following points are a few important guidelines to make your webiste more functional.
+
+**Responsiveness** Over 50% of a normal websites traffic is from mobile (smartphones and tablets) users. With half of your internet traffic coming from mobile users, it is very important that your website function well on mobile devices.
+
+>Responsive web design (RWD) is an approach to web design aimed at allowing desktop webpages to be viewed in response to the size of the screen or web browser one is viewing with. [(Wikipedia)](https://en.wikipedia.org/wiki/Responsive_web_design "Read more")
+
+Below is an example of a responsive site across multiple devices
+
+![responsive web example](img/churchwebsitesresponsive.jpg)
+
+You can also check [(Google Mobile Test)](https://support.google.com/adsense/answer/6196932?hl=en "Here") to test the mobile friendliness of your website.
+
+**Ease of Use** The unofficial industry standard is 2 pages per session on most websites. This means that when someone visits your church site, they are rarely looking at more than two different pages every time they click to your site. It is important that you capitilize on this as much as you can.
+
+Display your most important information first. When someone visits your site they are looking to answer the Who, What, When, Where and How.
+
+*Who* is your church? I have visited actual church websites that did not prominetly display the name of their church on the home page. Some do not have a domain name or address relevent to the church name. When someone visits your site, they should not have to search for the name of your church.
+
+*What* is your church? What is your mission statement? What do you believe? Communicate what your church is all about right there on the home page or somewhere on the site that is easy to find.
+
+![responsive web example](img/churchwebsitesmission.jpg)
+
+The mission of my church is located directly below the main image of our home page.
+
+![responsive web example](img/churchwebsitesquote.jpg)
+
+Directly below that we have a quote describing our church. Within 15 seconds of being on our site you have a pretty good idea of what we are all about. Of course, clicking the About Us link in the navigation menu will bring up a more detailed explanation of our beliefs, but the home page does a pretty good job of giving an overview.
