@@ -4,7 +4,9 @@ title = "Church Websites"
 draft = true
 +++
 
-### Your Church Website
+### Your Church Website Part 1 - Function
+
+This week I want to talk about church websites. More importantly, the function of a church website. Next week we will get deeper into the asthetics of your website, but this week will be concentrated on ensuring you have a functional, easy to use website.
 
 In our digital, fast-paced world today, it is so important for your church to not only have a website, but to have a good website. This is the first glimpse that many people will have of your church. Are you making a good impression before a guest reaches your front door?
 
@@ -60,4 +62,20 @@ Our service times are located directly on the home page and is one of the first 
 
 *How* can cover several questions or call-to-actions. How do I contact your church? How do I give online if your church offers that? How do I get more information?
 
-Take the time to view your website through the eyes of a total stranger that knows nothing about your church. What questions would you want answered? What information would you like easily avliable online? If you can easily answer *Who*, *What*, *When*, *Where* and *How*, you are on your way to have a good church website. Once your site functions well, we can move into making it look better.
+Take the time to view your website through the eyes of a total stranger that knows nothing about your church. What questions would you want answered? What information would you like easily avliable online? If you can easily answer *Who*, *What*, *When*, *Where* and *How*, you are on your way to have a good church website. Once your site functions well, then you can move into making it look better asthetically.
+
+That is all for part 1 about church websites. Next weeks post will be more about the visual look of your website and tips to make it look it better. Below are a few more statitistics to help give you an idea about what information is important for your website to have.
+
+**What people do on the websites of places of worship:**[(Source)](http://www.christianitytoday.com/news/2012/may/new-research-reveals-why-people-visit-church-websites.html "Christianity Today")
+
++ Check to see the times of services: 43%
++ Check what activities are offered: 29%
++ Look for a map or directions to the church's location: 28%
++ Watch streaming video: 26%
++ Listen to streaming audio: 26%
++ Check to see what the church's religious beliefs are: 22%
++ Request prayer: 18%
++ Downloading a podcast: 15%
++ Checking what denomination or group the church belongs to: 15%
++ Send a message to the pastor or leader: 12%
++ Post on a bulletin board or forum: 5%
