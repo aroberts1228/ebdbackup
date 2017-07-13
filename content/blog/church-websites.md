@@ -61,5 +61,3 @@ Our service times are located directly on the home page and is one of the first 
 *How* can cover several questions or call-to-actions. How do I contact your church? How do I give online if your church offers that? How do I get more information?
 
 Take the time to view your website through the eyes of a total stranger that knows nothing about your church. What questions would you want answered? What information would you like easily avliable online? If you can easily answer *Who*, *What*, *When*, *Where* and *How*, you are on your way to have a good church website. Once your site functions well, we can move into making it look better.
-
->"We don't have the budget for a professional designer, how can we have a better looking site?"
