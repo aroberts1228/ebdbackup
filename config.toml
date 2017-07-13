@@ -18,6 +18,7 @@ blog  = "blog/:slug/"
 [params]
 author        = "End Bad Design" # Full name shows on blog post pages
 firstname     = "Anthony" # First name shows in introduction on main page
+blogname      = "End Bad Design" #Name of the blog that appears on all blog post
 tagline       = "Let's End Bad Design" # Appears after the introduction
 introheight   = "large" # Input either 'medium' or 'large' or 'fullheight'
 theme         = "light" # Choose 'light' or 'dark'

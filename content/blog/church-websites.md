@@ -10,7 +10,7 @@ In our digital, fast-paced world today, it is so important for your church to no
 
 Unfortunaly, many churches do not have a well designed website or even a website at all. Many people think that you need to spend a small fortune to have a good website. Some churches just don't have a clue where to even start.
 
->Nearly half (46%) of people say a website’s design is their number one criterion for determining the credibility of an organization [(Source)](https://blog.hubspot.com/blog/tabid/6307/bid/33423/19-Reasons-You-Should-Include-Visual-Content-in-Your-Marketing-Data.aspx "Source")
+>"Nearly half (46%) of people say a website’s design is their number one criterion for determining the credibility of an organization" [(Source)](https://blog.hubspot.com/blog/tabid/6307/bid/33423/19-Reasons-You-Should-Include-Visual-Content-in-Your-Marketing-Data.aspx "Source")
 
 While that may seem like an unfair judgement to base your perception of a church on their website alone, it is the world we live in. How many times have you decided on a place to eat or a product to buy because it had good reviews and plenty of information avaliable online?
 
@@ -18,7 +18,7 @@ Your church is no different. People are searching for churches in your area ever
 
 Now you are probably asking the question, "What makes a website good?".
 
->94% of people cited poor web design as the reason they mistrusted or rejected a website.
+>"94% of people cited poor web design as the reason they mistrusted or rejected a website."
 
 Design, much like art, is very subjective on what "looks good". Some people like abstract painting while others prefer realistic oil paintings. Websites are the same way. Some people like blue, others prefer green. While there are a few things you should really do in relation to your site design, let's focus on the the functional side of your church website first.
 
@@ -26,7 +26,7 @@ You do not have to hire a world class web designer for your church to have a wel
 
 **Responsiveness** Over 50% of a normal websites traffic is from mobile (smartphones and tablets) users. With half of your internet traffic coming from mobile users, it is very important that your website function well on mobile devices.
 
->Responsive web design (RWD) is an approach to web design aimed at allowing desktop webpages to be viewed in response to the size of the screen or web browser one is viewing with. [(Wikipedia)](https://en.wikipedia.org/wiki/Responsive_web_design "Read more")
+>"Responsive web design (RWD) is an approach to web design aimed at allowing desktop webpages to be viewed in response to the size of the screen or web browser one is viewing with." [(Wikipedia)](https://en.wikipedia.org/wiki/Responsive_web_design "Read more")
 
 Below is an example of a responsive site across multiple devices
 
@@ -61,3 +61,5 @@ Our service times are located directly on the home page and is one of the first 
 *How* can cover several questions or call-to-actions. How do I contact your church? How do I give online if your church offers that? How do I get more information?
 
 Take the time to view your website through the eyes of a total stranger that knows nothing about your church. What questions would you want answered? What information would you like easily avliable online? If you can easily answer *Who*, *What*, *When*, *Where* and *How*, you are on your way to have a good church website. Once your site functions well, we can move into making it look better.
+
+>"We don't have the budget for a professional designer, how can we have a better looking site?"
