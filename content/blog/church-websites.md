@@ -1,10 +1,10 @@
 +++
-date = "2017-07-10T23:30:57-05:00"
+date = "2017-07-13T23:30:57-05:00"
 title = "Church Websites"
-draft = true
+draft = false
 +++
 
-### Your Church Website Part 1 - Function
+### Your Church Website Part 1 - *Function*
 
 This week I want to talk about church websites. More importantly, the function of a church website. Next week we will get deeper into the aesthetics of your website, but this week will be concentrated on ensuring you have a functional, easy to use website.
 
