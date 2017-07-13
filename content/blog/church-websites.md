@@ -36,7 +36,7 @@ You can also check [(Google Mobile Test)](https://support.google.com/adsense/ans
 
 **Ease of Use** The unofficial industry standard is 2 pages per session on most websites. This means that when someone visits your church site, they are rarely looking at more than two different pages every time they click to your site. It is important that you capitilize on this as much as you can.
 
-Display your most important information first. When someone visits your site they are looking to answer the Who, What, When, Where and How.
+Display your most important information first. When someone visits your site they are looking to answer the *Who*, *What*, *When*, *Where* and How.
 
 *Who* is your church? I have visited actual church websites that did not prominetly display the name of their church on the home page. Some do not have a domain name or address relevent to the church name. When someone visits your site, they should not have to search for the name of your church.
 
@@ -49,3 +49,15 @@ The mission of my church is located directly below the main image of our home pa
 ![responsive web example](img/churchwebsitesquote.jpg)
 
 Directly below that we have a quote describing our church. Within 15 seconds of being on our site you have a pretty good idea of what we are all about. Of course, clicking the About Us link in the navigation menu will bring up a more detailed explanation of our beliefs, but the home page does a pretty good job of giving an overview.
+
+*When* is your service? You can have the best designed church website in the world, but if people cannot easily find your basic weekly schedule, how do they know when to show up. It is very easy to display your main services, usually Sunday and a Mid-Weekday, on the home page of your site.
+
+![responsive web example](img/churchwebsiteshours.jpg)
+
+Our service times are located directly on the home page and is one of the first things you will see when the page loads.
+
+*Where* is your church located? This is especially important if your church is a mobile church or in a temporary location. You should always have your address on the home page, if not on every page. Address and contact information can be very easily placed in the header or footer of all of your pages. It is also a good idea to list your mailing address on the contact page if it differs from your physical address. Make it easy for people to get to you.
+
+*How* can cover several questions or call-to-actions. How do I contact your church? How do I give online if your church offers that? How do I get more information?
+
+Take the time to view your website through the eyes of a total stranger that knows nothing about your church. What questions would you want answered? What information would you like easily avliable online? If you can easily answer *Who*, *What*, *When*, *Where* and *How*, you are on your way to have a good church website. Once your site functions well, we can move into making it look better.
