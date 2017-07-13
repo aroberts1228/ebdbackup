@@ -64,7 +64,7 @@ Our service times are located directly on the home page and are one of the first
 
 Take the time to view your website through the eyes of a total stranger that knows nothing about your church. What questions would you want to be answered? What information would you like easily available online? If you can easily answer *Who*, *What*, *When*, *Where* and *How*, you are on your way to having a good church website. Once your site functions well, then you can move into making it look better aesthetically.
 
-That is all for part 1 about church websites. The post for next week will be more about the visual look of your website and tips to make it look it better. Below are a few more statistics to help give you an idea of what information is important for your website to have.
+That is all for part 1 about church websites. The post for next week will be more about the visual look of your website and tips to make it look better. Below are a few more statistics to help give you an idea of what information is important for your website to have.
 
 **What people do on the websites of places of worship:**[(Source)](http://www.christianitytoday.com/news/2012/may/new-research-reveals-why-people-visit-church-websites.html "Christianity Today")
 
