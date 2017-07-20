@@ -100,7 +100,7 @@ Squarespace is starting to really gain popularity in the realm of church website
 
 ![Anthem Church](img/churchwebsites2anthem.jpg)
 
-[Anthem Plano](http://nibbler.silktide.com/"Anthem Plano") Is a great example of a quality church website built on Squarespace. Pastor Kris Prince is a good friend of mine and highly recommends checking it out.
+[Anthem Plano](http://anthemplano.com/"Anthem Plano") Is a great example of a quality church website built on Squarespace. Pastor Kris Prince is a good friend of mine and highly recommends checking it out.
 
 While these are not the only CMS options out there, these are the three most popular ones I have seen from churches and hopefully one of these will be suitable for your needs.
 
