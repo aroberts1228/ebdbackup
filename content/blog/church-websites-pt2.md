@@ -1,7 +1,7 @@
 +++
 date = "2017-07-18T23:29:27-05:00"
 title = "Church Websites Part 2"
-draft = true
+draft = false
 +++
 
 This week will be a continuation of last weeks post on [Church Websites](http://endbaddesign.com/blog/church-websites/ "Church Websites"). Last week focused on the function of your website, and what information is important for you to display. Now we can focus on making your website more aesthetically pleasing to the people viewing it.
