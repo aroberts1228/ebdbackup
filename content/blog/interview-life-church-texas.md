@@ -24,11 +24,13 @@ We began brainstorming. Eventually we decided that Life Church represented what 
 
 So when talking about our potential logo we threw out several ideas. We scoured google and looked up other churches. One meeting, we thought about Moses’ encounter with God in the burning bush. My student pastor said, “what if we had a logo with a leaf in a flame?” The vision was born!
 
-**(EBD) What was the hardest part of the rebrand process?**
+**(EBD) What would you say was the hardest part of the whole rebrand process?**
 
 **JM** The hardest part, for me, was creating a brand that resonated within our community and within our church that still identified us as a spirit filled church. We didn’t want to look like everyone else…
 
-What positive effects have you seen from the rebrand?
+![Life Church Tyler TX](img/lifechurchsign.jpg)
+
+**(EBD) Even though it has not been long since you initiated the rebrand, what has been the effect on your church**
 
 Our rebrand has completely changed our church culture! It unified each department. We no longer have ministries competing against each other, but working together for the same purpose.
 
