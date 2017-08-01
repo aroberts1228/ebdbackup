@@ -20,7 +20,7 @@ author        = "End Bad Design" # Full name shows on blog post pages
 firstname     = "Anthony" # First name shows in introduction on main page
 blogname      = "End Bad Design" #Name of the blog that appears on all blog post
 tagline       = "Let's End Bad Design" # Appears after the introduction
-introheight   = "large" # Input either 'medium' or 'large' or 'fullheight'
+introheight   = "medium" # Input either 'medium' or 'large' or 'fullheight'
 theme         = "light" # Choose 'light' or 'dark'
 avatar        = "img/newprofile.jpg" # Path to image in static folder eg. img/avatar.png
 email         = "EndBadDesign@gmail.com" # Shows in contact section, or leave blank to omit
@@ -34,7 +34,7 @@ faviconfile   = "img/favnew.ico"
 highlightjs   = true # Syntax highlighting
 lang          = "en"
 footertext    = "©2017 End Bad Design. All rights reserved." # Text to show in footer (overrides default text)
-fadein        = true # Turn on/off the fade-in effect
+fadein        = false # Turn on/off the fade-in effect
 
 showblog        = true # Show Blog section on home page
 showallposts    = true # Set 'true' to list all posts on home page, or set 'false' to link to separate blog list page
