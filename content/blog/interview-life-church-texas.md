@@ -16,9 +16,9 @@ This week I sat down with Pastor Joshua McElhaney at Life Church in Tyler Texas.
 
 I decided that we needed to rebrand (or just brand) our church so that we would have a clear and distinct message in our community and so that each subministry would be a reflection of the ministry of the church.
 
-How did you come up with the name and logo?
+**(EBD) How did you come up with the name and logo?**
 
-I formed a committee. Myself (Pastor) along with our Student Pastor, Assistant Student Pastor, Hyphen Director, Spanish Ministries Director and our Outreach Director. I felt like a committee would not only allow us to be more creative, but also enable us to let the church felt like they had a voice as well.
+**JM** I formed a committee. Myself (Pastor) along with our Student Pastor, Assistant Student Pastor, Hyphen Director, Spanish Ministries Director and our Outreach Director. I felt like a committee would not only allow us to be more creative, but also enable us to let the church felt like they had a voice as well.
 
 We began brainstorming. Eventually we decided that Life Church represented what we wanted to portray to our community. Before we even had a logo, we knew that our mission would be to bring life to Tyler, and that we would be examples in our community of Jesus’ promise in John 10:10, believers with abundant life!
 
@@ -32,30 +32,30 @@ So when talking about our potential logo we threw out several ideas. We scoured 
 
 **(EBD) Even though it has not been long since you initiated the rebrand, what has been the effect on your church**
 
-Our rebrand has completely changed our church culture! It unified each department. We no longer have ministries competing against each other, but working together for the same purpose.
+**JM** Our rebrand has completely changed our church culture! It unified each department. We no longer have ministries competing against each other, but working together for the same purpose.
 
 When we rebranded we also completely overhauled our website. Almost every guest we’ve had this year (150 first time guests through June of 2017) had come as a result of our website, facebook page or seeing one of our members in a church shirt (shout out to kickprint!). People know who we are now!
 
-How important is it for a church to have quality branding?
+**(EBD) How important do you think it is for a church to have quality branding?**
 
-I believe it’s VERY important! Quality branding tells the story for you! When people see our signage, our merchandise, our logo, our facebook page or our website; the brand speaks for itself!
+**JM** I believe it’s VERY important! Quality branding tells the story for you! When people see our signage, our merchandise, our logo, our facebook page or our website; the brand speaks for itself!
 
 The importance of a quality brand cannot be overstated.
 
 Every church has an image. An image is your reputation in the community, your belief systems and the impression that the community has of your church. Every church also has an identity they WANT the community to see. Branding bring these two together. There’s no better way to control perception than a quality brand.
 
-What are your future plans to keep up the momentum of the new changes?
+**(EBD) What are your future plans to keep up the momentum of the new changes?**
 
-Currently we are looking to redesign our website again, make it simpler and easier to navigate. We launched a merch shop online, but we are looking to make these items available in our church. We are looking at possibly moving to a larger location soon, and if so we have an entire gameplan of new graphics, signage, banners, backdrops and even flag banners by the road to draw attention to our new facility. The momentum keeps growing, and there are always new and creative ways to get your brand recognized in your community.
+**JM** Currently we are looking to redesign our website again, make it simpler and easier to navigate. We launched a merch shop online, but we are looking to make these items available in our church. We are looking at possibly moving to a larger location soon, and if so we have an entire gameplan of new graphics, signage, banners, backdrops and even flag banners by the road to draw attention to our new facility. The momentum keeps growing, and there are always new and creative ways to get your brand recognized in your community.
 
-What would you say to a new church starting out, or an established church looking to change things up?
+**(EBD) What would you say to a new church starting out, or an established church looking to change things up?**
 
-I would say to the established church,
+**JM** I would say to the established church,
 “Prayerfully consider the identity that your church exudes to the community”. Ask yourself, “Is this a legitimate representation of who we are?”
 “Does our church name allow the community we are in to understand who we are clearly?”
 “Does our current logo, graphics, signage, etc… reflect who we are today?”
 
-To the startup church I would say, 
+To the startup church I would say,
 “Prayerfully seek God and ask Him how this new church can positively affect this community.”
 “Get a vision for what you feel God wants to do in this new church, and through this new church.”
 “Develop a mission that will enable you to fulfil the vision God has given you.”
@@ -63,19 +63,19 @@ To the startup church I would say,
 “Please, hire a designer!!”
 “Quality branding DEMANDS quality design!”
 
-What is one piece of advice you can give, based on your recent experience, to someone looking to rebrand?
+**(EBD) What is one piece of advice you can give, based on your recent experience, to someone looking to rebrand?**
 
-Be patient. Allow your ministry staff to get involved, the more minds that are engaged, the better.
+**JM** Be patient. Allow your ministry staff to get involved, the more minds that are engaged, the better.
 
 Pray. Allow God to lead you in every decision, and allow Him to guide the process. He wants HIs church to be recognized in your community more than you do.
 
-Many people argue that design and branding are not really important to a church since it is not a business. How do you react to that?
+**(EBD) Many people argue that design and branding are not really important to a church since it is not a business. How do you react to that?**
 
-I laugh. It IS a business. It’s a soul-winning business! It’s not an either/or. Quality branding allows you to be able to reach a broader audience. Branding aids the church in evangelism, not replaces it.
+**JM**I laugh. It IS a business. It’s a soul-winning business! It’s not an either/or. Quality branding allows you to be able to reach a broader audience. Branding aids the church in evangelism, not replaces it.
 
-Out of all the print products you ordered for your rebrand, which ones had the most impact?
+**(EBD) Out of all the products you ordered for your rebrand, which ones have had the most impact?**
 
-Honestly, t-shirts! We designed custom t-shirts with our logo on the front and the scripture of John 10:10 on the back. The first order we did was so incredible that people were begging us to order again. Within 2 weeks of the first order we were ordering more shirts again! This led to us creating a merchandise shop on our website with a large variety of branded products (Thanks Kickprint!).
+**JM** Honestly, t-shirts! We designed custom t-shirts with our logo on the front and the scripture of John 10:10 on the back. The first order we did was so incredible that people were begging us to order again. Within 2 weeks of the first order we were ordering more shirts again! This led to us creating a merchandise shop on our website with a large variety of branded products (Thanks Kickprint!).
 
 We have had numerous members testify that conversations have been struck up because of their church shirts. We’ve also had 3 people visit our church as a direct result of these shirts!
 
