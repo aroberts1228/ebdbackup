@@ -8,7 +8,7 @@ draft = true
 
 ![Life Church Tyler TX](img/lifechurch.jpg)
 
-This week I sat down with Pastor Joshua McElhaney at Life Church in Tyler Texas. My company Rocketpunch Labs assisted with a lot of the rebrand and new logo design, so I wanted to see how everything was going for Pastor Joshua after the rebrand.
+This week I sat down with Pastor Joshua McElhaney at Life Church in Tyler Texas. My company [(Rocketpunch Labs)](https://rocketpunchlabs.com "Rocketpunch Labs") assisted with a lot of the rebrand and new logo design, so I wanted to see how everything was going for Pastor Joshua after the rebrand.
 
 **(End Bad Design) Let's jump right into it with the first question. What prompted the name change and rebrand for your church?**
 
@@ -80,3 +80,11 @@ Pray. Allow God to lead you in every decision, and allow Him to guide the proces
 We have had numerous members testify that conversations have been struck up because of their church shirts. We’ve also had 3 people visit our church as a direct result of these shirts!
 
 Branded gear is the easiest way to get your brand into the community!
+
+***
+
+As you can see, a fresh rebrand can really generate a lot of excitement in your church. The key is to do it well. Don't launch into a complete re-design overhaul just to change things.
+
+Develop a plan, take your time, and make sure it really flows with the vision of your church.
+
+Thank you for taking the time to read this weeks post. Remeber to check back next week for "Free Stuff Friday". I will be including many free design files and fonts to assist you in taking your church designs to the next level.
