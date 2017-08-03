@@ -12,15 +12,15 @@ This week I sat down with Pastor Joshua McElhaney at Life Church in Tyler Texas.
 
 **(End Bad Design) Let's jump right into it with the first question. What prompted the name change and rebrand for your church?**
 
-**(Joshua McElhaney)** We never really had a “brand”. We were First United Pentecostal Church, and we shortened it to First Church. It felt cold and had no connection with our people. Our color scheme was ALL over the place. Each subministry had their own name and color scheme, etc…
+**(Joshua McElhaney)** We never really had a “brand”. We were First United Pentecostal Church, and we shortened it to First Church. It felt cold and had no connection with our people. Our color scheme was ALL over the place. Each sub-ministry had their own name and color scheme, etc…
 
-I decided that we needed to rebrand (or just brand) our church so that we would have a clear and distinct message in our community and so that each subministry would be a reflection of the ministry of the church.
+I decided that we needed to rebrand (or just brand) our church so that we would have a clear and distinct message in our community and so that each sub-ministry would be a reflection of the ministry of the church.
 
 **(EBD) How did you come up with the name and logo?**
 
-**JM** I formed a committee. Myself (Pastor) along with our Student Pastor, Assistant Student Pastor, Hyphen Director, Spanish Ministries Director and our Outreach Director. I felt like a committee would not only allow us to be more creative, but also enable us to let the church felt like they had a voice as well.
+**JM** I formed a committee. Myself (Pastor) along with our Student Pastor, Assistant Student Pastor, Hyphen Director, Spanish Ministries Director and our Outreach Director. I felt like a committee would not only allow us to be more creative but also enable us to let the church felt like they had a voice as well.
 
-We began brainstorming. Eventually we decided that Life Church represented what we wanted to portray to our community. Before we even had a logo, we knew that our mission would be to bring life to Tyler, and that we would be examples in our community of Jesus’ promise in John 10:10, believers with abundant life!
+We began brainstorming. Eventually, we decided that Life Church represented what we wanted to portray to our community. Before we even had a logo, we knew that our mission would be to bring life to Tyler and that we would be examples in our community of Jesus’ promise in John 10:10, believers with abundant life!
 
 So when talking about our potential logo we threw out several ideas. We scoured google and looked up other churches. One meeting, we thought about Moses’ encounter with God in the burning bush. My student pastor said, “what if we had a logo with a leaf in a flame?” The vision was born!
 
@@ -34,11 +34,11 @@ So when talking about our potential logo we threw out several ideas. We scoured 
 
 **JM** Our rebrand has completely changed our church culture! It unified each department. We no longer have ministries competing against each other, but working together for the same purpose.
 
-When we rebranded we also completely overhauled our website. Almost every guest we’ve had this year (150 first time guests through June of 2017) had come as a result of our website, facebook page or seeing one of our members in a church shirt (shout out to kickprint!). People know who we are now!
+When we rebranded we also completely overhauled our website. Almost every guest we’ve had this year (150 first time guests through June of 2017) had come as a result of our website, Facebook page or seeing one of our members in a church shirt (shout out to Kickprint!). People know who we are now!
 
 **(EBD) How important do you think it is for a church to have quality branding?**
 
-**JM** I believe it’s VERY important! Quality branding tells the story for you! When people see our signage, our merchandise, our logo, our facebook page or our website; the brand speaks for itself!
+**JM** I believe it’s VERY important! Quality branding tells the story for you! When people see our signage, our merchandise, our logo, our Facebook page or our website; the brand speaks for itself!
 
 The importance of a quality brand cannot be overstated.
 
@@ -63,6 +63,8 @@ To the startup church I would say,
 “Please, hire a designer!!”
 “Quality branding DEMANDS quality design!”
 
+![Life Church Tyler TX](img/lifechurchbanners.jpg)
+
 **(EBD) What is one piece of advice you can give, based on your recent experience, to someone looking to rebrand?**
 
 **JM** Be patient. Allow your ministry staff to get involved, the more minds that are engaged, the better.
@@ -71,15 +73,17 @@ Pray. Allow God to lead you in every decision, and allow Him to guide the proces
 
 **(EBD) Many people argue that design and branding are not really important to a church since it is not a business. How do you react to that?**
 
-**JM**I laugh. It IS a business. It’s a soul-winning business! It’s not an either/or. Quality branding allows you to be able to reach a broader audience. Branding aids the church in evangelism, not replaces it.
+**JM** I laugh. It IS a business. It’s a soul-winning business! It’s not an either/or. Quality branding allows you to be able to reach a broader audience. Branding aids the church in evangelism, not replaces it.
 
 **(EBD) Out of all the products you ordered for your rebrand, which ones have had the most impact?**
 
-**JM** Honestly, t-shirts! We designed custom t-shirts with our logo on the front and the scripture of John 10:10 on the back. The first order we did was so incredible that people were begging us to order again. Within 2 weeks of the first order we were ordering more shirts again! This led to us creating a merchandise shop on our website with a large variety of branded products (Thanks Kickprint!).
+**JM** Honestly, t-shirts! We designed custom t-shirts with our logo on the front and the scripture of John 10:10 on the back. The first order we did was so incredible that people were begging us to order again. Within 2 weeks of the first order we were ordering more shirts again! This led to us creating a merchandise shop on our website with a large variety of branded products thanks to [(Kickprint)](https://kickprint.com "Kickprint").
 
 We have had numerous members testify that conversations have been struck up because of their church shirts. We’ve also had 3 people visit our church as a direct result of these shirts!
 
 Branded gear is the easiest way to get your brand into the community!
+
+![Life Church Tyler TX](img/lifechurchmerch.jpg)
 
 ***
 
