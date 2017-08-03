@@ -1,7 +1,7 @@
 +++
 date = "2017-08-01T11:31:32-05:00"
 title = "Interview With Life Church Texas"
-draft = true
+draft = false
 +++
 
 ### Interview with Pastor Joshua McElhaney at Life Church
